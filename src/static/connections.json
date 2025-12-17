@@ -1,0 +1,22 @@
+[
+    {
+        "ConnectionID": 1,
+        "UserName1": "tom",
+        "UserName2": "jerry"
+    },
+    {
+        "ConnectionID": 2,
+        "UserName1": "jerry",
+        "UserName2": "tom"
+    },
+    {
+        "ConnectionID": 3,
+        "UserName1": "jerry",
+        "UserName2": "birdie"
+    },
+    {
+        "ConnectionID": 4,
+        "UserName1": "birdie",
+        "UserName2": "jerry"
+    }
+]

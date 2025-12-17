@@ -1,0 +1,17 @@
+{
+    "resources": {
+        "1" : {
+            "resourceId" : 1, 
+            "format" : "pdf", 
+            "title" : "Four Year Checklist",
+            "link" : "https://www.google.com/"
+        },
+        "2" : {
+            "resourceId" : 2, 
+            "format" : "pdf", 
+            "title" : "Career Center",
+            "link" : "https://www.google.com/"
+        }
+    }
+}
+    
