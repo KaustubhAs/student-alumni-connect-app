@@ -1,4 +1,4 @@
-# Student-Alumni Connect Application (PAPHYA)
+<!-- # Student-Alumni Connect Application (PAPHYA)
 
 This is a collaborative project with Gabriel P., Qian Y., Sharayu P., and myself.
 
@@ -14,19 +14,19 @@ relationship could help students better understand after-college career paths.
 - ****Front-end****: React, Redux, MUI, Jest, Husky, Netlify, Github Actions, Postman.
 - ****Back-end****: MySQL, NodeJS, AWS (SAM, CloudFormation, Lambda, API Gateway).
 
-![Architecture](assets/architecture.jpg)
+<!-- ![Architecture](assets/architecture.jpg) -->
 
-## Demo & Use Cases
+<!-- ## Demo & Use Cases
 
-****User Features****: User can view directory + make connections.
+****User Features****: User can view directory + make connections. -->
 
-![User Features](assets/user.gif)
+<!-- ![User Features](assets/user.gif) -->
 
-****Admin Features****: Admin can provide assistance to general user with console.
+<!-- ****Admin Features****: Admin can provide assistance to general user with console. -->
 
-![Admin Features](assets/admin.gif)
+<!-- ![Admin Features](assets/admin.gif) -->
 
-## Get Started: Front-End
+<!-- ## Get Started: Front-End
 
 Note that this repository only contains front-end codebase. Back-end codebase might be added at a future date.
 
@@ -94,4 +94,4 @@ to perform CI/CD.
 
 ## License
 
-[MIT License](LICENSE)
+[MIT License](LICENSE) --> -->
